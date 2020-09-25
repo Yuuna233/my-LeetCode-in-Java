@@ -3,5 +3,5 @@
 
 ## Solutions
 
-- [Q1:Two sum](/src/两数之和)
+- [Q1:Two Sum](/src/TwoSum)
 
