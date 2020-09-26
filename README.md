@@ -4,4 +4,4 @@
 ## Solutions
 
 - [Q1:Two Sum](/src/TwoSum)
-
+- [Q9:Palindrome Number](/src/PalindromeNumber)
