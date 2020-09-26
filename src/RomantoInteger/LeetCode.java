@@ -32,9 +32,4 @@ class Solution {
                 return 0;
         }
     }
-
-    public static void main(String[] args) {
-        String cao = "MCMXCIV";
-        System.out.println(romanToInt(cao));
-    }
 }
