@@ -1,5 +1,5 @@
 class Solution {
-    public static int romanToInt(String s) {
+    public int romanToInt(String s) {
         int output = RomanINT(s.charAt(s.length() - 1));
         for (int i = s.length() - 2; i >= 0; i--) {
             int next = RomanINT(s.charAt(i + 1));
@@ -12,7 +12,7 @@ class Solution {
         return output;
     }
 
-    private static int RomanINT(char roman) {
+    private int RomanINT(char roman) {
         switch (roman) {
             case 'I':
                 return 1;
